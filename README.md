@@ -56,4 +56,4 @@ Hi 👋! I'm Queen Mohlala — a passionate frontend developer from South Africa
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/QueenMohlala1/QueenMohlala1/output/snake.svg)
