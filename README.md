@@ -47,6 +47,9 @@ Hi 👋! I'm Queen Mohlala — a passionate frontend developer from South Africa
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  ![Snake animation](https://raw.githubusercontent.com/QueenMohlala/QueenMohlala/output/snake.svg)
+
 </div>
 
 ---
